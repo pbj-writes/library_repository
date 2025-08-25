@@ -1,0 +1,4 @@
+- url: /about
+  title: About This Demo
+  description: 'This is a portfolio project. #HireMe'
+  template: about.html

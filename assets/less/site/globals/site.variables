@@ -1,0 +1,8 @@
+/* Header */
+/* Override @navbarBackgroundImage to override the header background. */
+
+@navbarBackgroundImage: linear-gradient(10deg, rgba(235, 109, 203, 0.69), rgba(186, 123, 242, 0.69) 15%, rgba(130, 18, 190, 0.69));
+
+/* Footer */
+@footerLightColor: rgba(130, 18, 190, 0.69);
+@footerDarkColor: rgba(130, 18, 190, 0.69);

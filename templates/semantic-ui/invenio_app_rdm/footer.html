@@ -1,0 +1,25 @@
+{%- block footer_top %}
+
+  <div class="footer-top">
+    <div class="ui container app-rdm-footer">
+      {%- block footer_top_left %}
+        <div class="ui grid app-rdm-footer">
+        <div class="rdm-footer five wide tablet two wide computer column">
+          <a class="item" href="/about">About</a>
+        </div>
+        <div class="rdm-footer five wide tablet two wide computer column">
+          <h2 class="ui small header">{{ _("Links") }}</h2>
+           <p><a href="https://github.com/pbj-writes/library_repository">{{ _("GitHub") }}</a></p>
+           <p><a href="https://www.linkedin.com/in/pbjwrites/">{{ _("LinkedIn") }}</a></p>
+       
+        </div>
+        {%- endblock footer_top_left %}
+      <div class="six wide column right aligned">
+        {%- block footer_top_right %}
+        {%- endblock footer_top_right %}
+      </div>
+      </div>
+    </div>
+
+  </div>
+{%- endblock footer_top %}

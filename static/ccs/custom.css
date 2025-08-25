@@ -1,0 +1,7 @@
+.navbar, .footer {
+  background-color: #4B0082 !important;
+}
+.btn.primary {
+  background-color: #6a0dad !important;
+  border-color: #6a0dad !important;
+}

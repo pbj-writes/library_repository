@@ -1,0 +1,8 @@
+#list of users:
+- email: pbj.writes@icloud.com
+  username: pbj
+  active: 1
+  confirmed: 1
+  password: donutbolton
+  roles: system
+  allow: all
